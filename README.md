@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rajen Trivedi</h1>
 
-<!--
-**rajen-trivedi/rajen-trivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/rajen-trivedi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge&logo=github" alt="Repositories"/></a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Contribution Streak Stats -->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rajen-trivedi"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajen-trivedi&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="rajen-trivedi's GitHub stats"/>
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajen-trivedi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+</p>
+
+### About Me
+Passionate Android developer from Surat, Gujarat. Working on interesting projects!
+
+<!-- Add more sections, fun facts, snake animation, etc. -->
